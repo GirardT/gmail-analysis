@@ -37,6 +37,11 @@ This tool is designed to analyze emails in your Gmail inbox and provide insights
    - If you chose "Get Search Patterns", the search patterns will be displayed in the "Email Analysis" sheet.
    - If you chose "List Emails with Count", the sender domains and their corresponding email counts will be displayed in the "Email Analysis" sheet.
 
+## Get Search Patterns
+
+- The "Get Search Patterns" function sorts sender domains in descending order of frequency. This allows you to identify and manage the bulk of emails from specific domains more efficiently.
+- These patterns can be used for advanced searches in Gmail or setting up email filters, helping you find and organize emails more efficiently.
+
 ## Notes
 
 - This tool fetches a maximum of 1000 emails from your inbox. You can adjust this limit in the code if needed.
